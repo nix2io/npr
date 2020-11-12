@@ -11,5 +11,6 @@
 | Name | Description | Version |
 |:----:|-------------|:-------:|
 |[typescript](https://github.com/nix2io/service-plugin-typescript)|Create Typescript services with this plugin.|1.0.2|
+|[graphql](https://github.com/nix2io/service-plugin-graphql)|Create GraphQL services with this plugin.|1.0.0|
 
 <!-- plugin_list_end -->
