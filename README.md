@@ -9,6 +9,8 @@
   [ <a href="#">Link1 💾</a> | <a href="#">Link2 🤓</a> | <a href="https://github.com/nix2io/readme-template">Github 🕸</a> ]
 </p>
 
-<p align="center">
-  <img style="display: block; width: 100%; max-width: 700px" alt="Some Screenshot" src="https://www.pngarts.com/files/1/Space-PNG-Download-Image.png">
-</p>
+<!-- plugin_list_start -->
+
+| Name | Description | Version |
+|:----:|-------------|:-------:|
+|[typescript](https://github.com/nix2io/service-plugin-typescript)|Create Typescript services with this plugin.|1.0.2|
