@@ -1,8 +1,8 @@
 <p align="center"><img height="220px" src="https://i.imgur.com/48BeKfE.png" alt="Logo" /><p>
 
 <p align="center">
-  <strong>{Name}</strong><br />
-  <sub>{Description}</sub>
+  <strong>Nix² Plugin Registry</strong><br />
+  <sub>registry of all cli plugins</sub>
 </p>
 
 <p align="center">
